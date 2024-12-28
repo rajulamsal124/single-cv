@@ -59,3 +59,7 @@ Stay tuned for these updates!
 ## Acknowledgements
 
 This project is part of the roadmap.sh frontend project. Special thanks to the contributors and the open-source community for their support and inspiration.
+
+## Project URL
+
+For more details, visit the project page: [Single Page CV](https://roadmap.sh/projects/single-page-cv)
